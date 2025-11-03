@@ -1,5 +1,7 @@
 # ArtOfMovie
-projet blog de ArtOfMovie {non-finis}
+projet blog de ArtOfMovie 
+
+lien carte mentale : https://mm.tt/map/3856391350?t=tZhs2ncmSL
 
 Le projet est simple créé une application permettant a un auteur d'y partager c'est écris sur un blog visant les films & peut être une partie Jeux-Vidéo
 -une page accueil qui regrouperais les articles créé par l'auteur avec possibilité de modifier créé et suprimer les articles(uniquement pour admins)
