@@ -1,0 +1,50 @@
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.content form {
+  background: white;
+  max-width: 700px;
+  width: 100%;
+  padding: 4rem;
+  box-shadow: var(--box-shadow);
+  border-radius: 3px;
+  display: flex;
+  flex-direction: column;
+}
+.content form .form-group {
+  margin-bottom: 2rem;
+  display: flex;
+  flex-direction: column;
+}
+.content form .form-group label {
+  font-size: 1.8rem;
+  color: var(--accent);
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+.content form .form-group input,
+.content form .form-group textarea {
+  border: 1px solid var(--divider);
+  padding: 1rem;
+  outline: 0;
+  border-radius: 3px;
+}
+.content form .form-group input:focus,
+.content form .form-group textarea:focus {
+  border-color: var(--accent);
+}
+.content form .form-group textarea {
+  min-height: 20rem;
+}
+.content form .form-btn-container {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.content form .form-btn-container .btn {
+  margin-left: 0.5rem;
+}
+
+/*# sourceMappingURL=form.css.map */
